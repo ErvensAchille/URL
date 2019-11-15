@@ -1,4 +1,8 @@
-![21 Savage](public/21savage.jpg)
+
+Goal: Create a message board for avid battle rap fans to drop their favorite bars.
+![alt tag]
+
+Bio: The Ultimate Rap League (commonly referred to as SMACK/URL) is a battle rap league based out of New York City by acclaimed hip hop promoter Troy "Smack White" Mitchell out of Queens, New York City, United States.
 
 ## Installation
 
