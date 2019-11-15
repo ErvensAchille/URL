@@ -1,0 +1,13 @@
+body{
+  background: orange;
+  font-weight: bold;
+  font-family: fantasy;
+}
+h3{
+  margin-top: 40px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
